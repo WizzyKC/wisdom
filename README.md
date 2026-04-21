@@ -8,6 +8,6 @@ This is a simple Python program that calculates:
 Built as part of my learning journey in Pyhton.
 
 ## How to run
-Make sure Python is installed
-Open terminal
-Run my firstcode.py
+1. Make sure Python is installed
+2. Open terminal
+3. Run my firstcode.py
