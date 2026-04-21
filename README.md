@@ -11,3 +11,4 @@ Built as part of my learning journey in Pyhton.
 1. Make sure Python is installed
 2. Open terminal
 3. Run my firstcode.py# tax-calculator
+# tax-calculator
